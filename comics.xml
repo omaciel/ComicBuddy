@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Comics>
+	<Comic>
+		<Name>Garfield</Name>
+		<Prefix>ga</Prefix>
+		<URL>http://images.ucomics.com/comics/ch/</URL>
+		<StartDate>04/08/2004</StartDate>
+		<EndDate>04/08/2004</EndDate>
+	</Comic>
+	<Comic>
+		<Name>Calvin &amp; Hobbes</Name>
+		<Prefix>ch</Prefix>
+		<URL>http://images.ucomics.com/comics/ch/</URL>
+		<StartDate>04/08/2004</StartDate>
+		<EndDate>04/08/2004</EndDate>
+	</Comic>
+</Comics>
